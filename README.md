@@ -46,7 +46,7 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 | Project Name      | Description                                                    | Downloads | Start |
 | ----------------- | -------------------------------------------------------------- | ----- | ----- |
 | [BaseResult](https://github.com/BehzadDara/BehzadDara.BaseResult) | A result pattern library have same structure for all Endpoints | +100 | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BaseResult?style=social) |
-| [AutoEndpoints](https://github.com/BehzadDara/BehzadDara.AutoEndpoints) | A library for generating endpoints using attributes above enums. | - | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.AutoEndpoints?style=social) |
+| [AutoEndpoints](https://github.com/BehzadDara/BehzadDara.AutoEndpoints) | A library for generating endpoints using attributes above enums. | +30 | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.AutoEndpoints?style=social) |
 
 ---
 
