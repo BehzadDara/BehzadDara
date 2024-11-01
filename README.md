@@ -54,11 +54,11 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 
 | Package Name                                                                                                        | Downloads |
 | ------------------------------------------------------------------------------------------------------------------- | --------- |
-| [EasyDotnet.BuildingBlocks.API](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.API)                       | +130      |
-| [EasyDotnet.BuildingBlocks.Application](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Application)       | +160      |
-| [EasyDotnet.BuildingBlocks.Domain](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Domain)                 | +120      |
-| [EasyDotnet.BuildingBlocks.Infrastructure](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Infrastructure) | +80       |
-| [EasyDotnet.BuildingBlocks.Resources](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Resources)           | +40       |
+| [EasyDotnet.BuildingBlocks.API](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.API)                       | +180      |
+| [EasyDotnet.BuildingBlocks.Application](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Application)       | +210      |
+| [EasyDotnet.BuildingBlocks.Domain](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Domain)                 | +160      |
+| [EasyDotnet.BuildingBlocks.Infrastructure](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Infrastructure) | +110      |
+| [EasyDotnet.BuildingBlocks.Resources](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Resources)           | +50       |
 
 ---
 
