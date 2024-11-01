@@ -41,17 +41,25 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 
 ---
 
-### 🔥 Top Nuget Packages:
+### 🔥 Open Source Nuget Packages:
 
-| Project Name      | Description                                                    | Downloads | Start |
-| ----------------- | -------------------------------------------------------------- | ----- | ----- |
-| [BaseResult](https://github.com/BehzadDara/BehzadDara.BaseResult) | A result pattern library have same structure for all Endpoints | +130 | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BaseResult?style=social) |
-| [AutoEndpoints](https://github.com/BehzadDara/BehzadDara.AutoEndpoints) | A library for generating endpoints using attributes above enums. | +60 | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.AutoEndpoints?style=social) |
-| [BuildingBlocks](https://github.com/BehzadDara/BuildingBlocks) | API Layer of BuildingBlocks code base based on Clean Architecture. | +130 | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BuildingBlocks?style=social) |
-| [BuildingBlocks](https://github.com/BehzadDara/BuildingBlocks) | Application Layer of BuildingBlocks code base based on Clean Architecture. | +160 | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BuildingBlocks?style=social) |
-| [BuildingBlocks](https://github.com/BehzadDara/BuildingBlocks) | Domain Layer of BuildingBlocks code base based on Clean Architecture. | +120 | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BuildingBlocks?style=social) |
-| [BuildingBlocks](https://github.com/BehzadDara/BuildingBlocks) | Infrastructure Layer of BuildingBlocks code base based on Clean Architecture. | +80 | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BuildingBlocks?style=social) |
-| [BuildingBlocks](https://github.com/BehzadDara/BuildingBlocks) | Resources Layer of BuildingBlocks code base based on Clean Architecture. | +40 | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BuildingBlocks?style=social) |
+| Project Name                                                            | Package Name                                                                        | Description                                                      | Downloads | Stars                                                                                                      |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------| ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------- |
+| [BaseResult](https://github.com/BehzadDara/BehzadDara.BaseResult)       | [BehzadDara.BaseResult](https://www.nuget.org/packages/BehzadDara.BaseResult)       | A result pattern library have same structure for all Endpoints   | +130     | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BaseResult?style=social)    |
+| [AutoEndpoints](https://github.com/BehzadDara/BehzadDara.AutoEndpoints) | [BehzadDara.AutoEndpoints](https://www.nuget.org/packages/BehzadDara.AutoEndpoints) | A library for generating endpoints using attributes above enums. | +60      | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.AutoEndpoints?style=social) |
+
+---
+
+### 🔥 Clean Architecture Layers Nuget Packages:
+
+| Package Name                                                                                                        | Downloads |
+| ------------------------------------------------------------------------------------------------------------------- | --------- |
+
+| [EasyDotnet.BuildingBlocks.API](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.API)                       | +130      |
+| [EasyDotnet.BuildingBlocks.Application](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Application)       | +160      |
+| [EasyDotnet.BuildingBlocks.Domain](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Domain)                 | +120      |
+| [EasyDotnet.BuildingBlocks.Infrastructure](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Infrastructure) | +80       |
+| [EasyDotnet.BuildingBlocks.Resources](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Resources)           | +40       |
 
 ---
 
