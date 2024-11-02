@@ -1,7 +1,7 @@
 # Hi, I'm Behzad Dara! 👋
 
-[![](https://img.shields.io/badge/-@elfocrash-%23181717?style=flat-square&logo=github)](https://github.com/BehzadDara)
-[![](https://img.shields.io/badge/-Nick%20Chapsas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/behzaddara/)](https://www.linkedin.com/in/behzaddara/)
+[![](https://img.shields.io/badge/-@BehzadDara-%23181717?style=flat-square&logo=github)](https://github.com/BehzadDara)
+[![](https://img.shields.io/badge/-Behzad Dara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/behzaddara/)](https://www.linkedin.com/in/behzaddara/)
 
 I'm a seasoned software engineer with 7 years of experience in back-end development, specializing in designing scalable distributed systems, microservices, and event-driven architectures. I love sharing knowledge through content creation on LinkedIn, where I have over 20K followers. I'm also passionate about open-source, with my GitHub projects earning over 1K stars. 
 
