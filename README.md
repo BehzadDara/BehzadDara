@@ -35,7 +35,7 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 | Package Name                                                                                                        | Downloads |
 | ------------------------------------------------------------------------------------------------------------------- | --------- |
 | [EasyDotnet.BuildingBlocks.API](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.API)                       | +230      |
-| [EasyDotnet.BuildingBlocks.Application](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Application)       | +280      |
+| [EasyDotnet.BuildingBlocks.Application](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Application)       | +290      |
 | [EasyDotnet.BuildingBlocks.Domain](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Domain)                 | +190      |
 | [EasyDotnet.BuildingBlocks.Infrastructure](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Infrastructure) | +120      |
 | [EasyDotnet.BuildingBlocks.Resources](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Resources)           | +70       |
