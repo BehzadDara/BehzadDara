@@ -34,11 +34,11 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 
 | Package Name                                                                                                        | Downloads |
 | ------------------------------------------------------------------------------------------------------------------- | --------- |
-| [EasyDotnet.BuildingBlocks.API](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.API)                       | +190      |
-| [EasyDotnet.BuildingBlocks.Application](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Application)       | +250      |
-| [EasyDotnet.BuildingBlocks.Domain](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Domain)                 | +170      |
-| [EasyDotnet.BuildingBlocks.Infrastructure](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Infrastructure) | +110      |
-| [EasyDotnet.BuildingBlocks.Resources](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Resources)           | +60       |
+| [EasyDotnet.BuildingBlocks.API](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.API)                       | +230      |
+| [EasyDotnet.BuildingBlocks.Application](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Application)       | +280      |
+| [EasyDotnet.BuildingBlocks.Domain](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Domain)                 | +190      |
+| [EasyDotnet.BuildingBlocks.Infrastructure](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Infrastructure) | +120      |
+| [EasyDotnet.BuildingBlocks.Resources](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Resources)           | +70       |
 
 ---
 
@@ -46,7 +46,7 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 
 | Project Name                                                            | Package Name                                                                        | Description                                                      | Downloads | Stars                                                                                                      |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------| ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------- |
-| [BaseResult](https://github.com/BehzadDara/BehzadDara.BaseResult)       | [BehzadDara.BaseResult](https://www.nuget.org/packages/BehzadDara.BaseResult)       | A result pattern library have same structure for all Endpoints   | +130     | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BaseResult?style=social)    |
+| [BaseResult](https://github.com/BehzadDara/BehzadDara.BaseResult)       | [BehzadDara.BaseResult](https://www.nuget.org/packages/BehzadDara.BaseResult)       | A result pattern library have same structure for all Endpoints   | +140     | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BaseResult?style=social)    |
 | [AutoEndpoints](https://github.com/BehzadDara/BehzadDara.AutoEndpoints) | [BehzadDara.AutoEndpoints](https://www.nuget.org/packages/BehzadDara.AutoEndpoints) | A library for generating endpoints using attributes above enums. | +60      | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.AutoEndpoints?style=social) |
 
 ---
