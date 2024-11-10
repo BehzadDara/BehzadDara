@@ -28,6 +28,7 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 | [ToDoListService](https://github.com/BehzadDara/ToDoListService)     | Simple repository for to do list management.                              | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/ToDoListService?style=social) |
 | [XO](https://github.com/BehzadDara/XO)                               | XO game using SignalR.                                                    | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/XO?style=social)     |
 | [LibraryManagement](https://github.com/BehzadDara/LibraryManagement) | Library Management using GraphQL                                          | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/LibraryManagement?style=social) |
+| [LeetCode](https://github.com/BehzadDara/LeetCode) | A repository with multiple projects that each one solves a LeetCode problem with description| ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/LeetCode?style=social) |
 
 ---
 
