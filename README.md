@@ -37,7 +37,7 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 | ------------------------------------------------------------------------------------------------------------------- | --------- |
 | [EasyDotnet.BuildingBlocks.API](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.API)                       | +630      |
 | [EasyDotnet.BuildingBlocks.Application](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Application)       | +910      |
-| [EasyDotnet.BuildingBlocks.Domain](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Domain)                 | +700      |
+| [EasyDotnet.BuildingBlocks.Domain](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Domain)                 | +760      |
 | [EasyDotnet.BuildingBlocks.Infrastructure](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Infrastructure) | +250      |
 | [EasyDotnet.BuildingBlocks.Resources](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Resources)           | +220      |
 
