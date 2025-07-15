@@ -1,4 +1,4 @@
-# Hi, I'm Behzad Dara! 👋
+# Hi! 👋
 
 [![](https://img.shields.io/badge/-@BehzadDara-%23181717?style=flat-square&logo=github)](https://github.com/BehzadDara)
 [![](https://img.shields.io/badge/-Behzad%20Dara-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzaddara/)
