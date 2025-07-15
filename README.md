@@ -6,9 +6,9 @@
 I'm a seasoned software engineer with 8 years of experience in back-end development, specializing in designing scalable distributed systems, microservices, and event-driven architectures. 
 <!--I love sharing knowledge through content creation on LinkedIn, where I have over 20K followers. I'm also passionate about open-source, with my GitHub projects earning over 1K stars. -->
 
+<!--
 Feel free to connect with me on LinkedIn or email me for any inquiries!
 
-<!--
 ### 📫 How to reach me:
 - LinkedIn: [Behzad Dara](https://www.linkedin.com/in/behzaddara)
 - Email: [behzad.dara.99@gmail.com](mailto:behzad.dara.99@gmail.com)
