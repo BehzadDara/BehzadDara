@@ -16,7 +16,7 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 ---
 
 ### ⚡ GitHub Stats:
-![Behzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=BehzadDara&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=einmontal&show_icons=true&theme=radical)
 
 ---
 
