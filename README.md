@@ -3,7 +3,8 @@
 <!--[![](https://img.shields.io/badge/-@BehzadDara-%23181717?style=flat-square&logo=github)](https://github.com/BehzadDara)-->
 <!--[![](https://img.shields.io/badge/-Behzad%20Dara-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzaddara/)-->
 
-I'm a seasoned software engineer with 7 years of experience in back-end development, specializing in designing scalable distributed systems, microservices, and event-driven architectures. I love sharing knowledge through content creation on LinkedIn, where I have over 20K followers. I'm also passionate about open-source, with my GitHub projects earning over 1K stars. 
+I'm a seasoned software engineer with 8 years of experience in back-end development, specializing in designing scalable distributed systems, microservices, and event-driven architectures. 
+<!--I love sharing knowledge through content creation on LinkedIn, where I have over 20K followers. I'm also passionate about open-source, with my GitHub projects earning over 1K stars. -->
 
 Feel free to connect with me on LinkedIn or email me for any inquiries!
 
