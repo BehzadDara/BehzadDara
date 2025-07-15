@@ -8,10 +8,11 @@ I'm a seasoned software engineer with 8 years of experience in back-end developm
 
 Feel free to connect with me on LinkedIn or email me for any inquiries!
 
+<!--
 ### 📫 How to reach me:
 - LinkedIn: [Behzad Dara](https://www.linkedin.com/in/behzaddara)
 - Email: [behzad.dara.99@gmail.com](mailto:behzad.dara.99@gmail.com)
-
+-->
 ---
 
 ### ⚡ GitHub Stats:
