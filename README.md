@@ -34,25 +34,4 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 
 ---
 
-### 🔥 Clean Architecture Layers Nuget Packages:
-
-| Package Name                                                                                                        | Downloads |
-| ------------------------------------------------------------------------------------------------------------------- | --------- |
-| [EasyDotnet.BuildingBlocks.API](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.API)                       | +1000     |
-| [EasyDotnet.BuildingBlocks.Application](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Application)       | +1000     |
-| [EasyDotnet.BuildingBlocks.Domain](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Domain)                 | +900      |
-| [EasyDotnet.BuildingBlocks.Infrastructure](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Infrastructure) | +310      |
-| [EasyDotnet.BuildingBlocks.Resources](https://www.nuget.org/packages/EasyDotnet.BuildingBlocks.Resources)           | +280      |
-
----
-
-### 🔥 Open Source Nuget Packages:
-
-| Project Name                                                            | Package Name                                                                        | Description                                                      | Downloads | Stars                                                                                                      |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------| ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------- |
-| [BaseResult](https://github.com/BehzadDara/BehzadDara.BaseResult)       | [BehzadDara.BaseResult](https://www.nuget.org/packages/BehzadDara.BaseResult)       | A result pattern library have same structure for all Endpoints   | +150     | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.BaseResult?style=social)    |
-| [AutoEndpoints](https://github.com/BehzadDara/BehzadDara.AutoEndpoints) | [BehzadDara.AutoEndpoints](https://www.nuget.org/packages/BehzadDara.AutoEndpoints) | A library for generating endpoints using attributes above enums. | +70      | ![GitHub Repo stars](https://img.shields.io/github/stars/BehzadDara/BehzadDara.AutoEndpoints?style=social) |
-
----
-
 Thank you for visiting my profile! 🚀
