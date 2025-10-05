@@ -7,8 +7,6 @@ Senior Software Engineer (C#/.NET, Python, TypeScript) with 8+ years building ev
 
 ---
 
-Feel free to connect with me on LinkedIn or email me for any inquiries!
-
 ### 📫 How to reach me:
 
 - LinkedIn: [Behzad Dara](https://www.linkedin.com/in/behzaddara)
