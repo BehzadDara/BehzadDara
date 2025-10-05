@@ -5,10 +5,19 @@
 
 Senior Software Engineer (C#/.NET, Python, TypeScript) with 8+ years building event-driven microservices and scalable SaaS platforms. Experienced in Kubernetes, GCP/AWS/Azure, CI/CD, and secure distributed architectures. Proven ability to integrate AI/ML models into production systems, optimize APIs, and deliver high-quality software in fast-paced, startup environments. Strong ownership mentality, mentoring experience, and passion for building AI-native infrastructure.
 
-### 📫 Feel free to connect with me on LinkedIn or email me for any inquiries!
+Feel free to connect with me on LinkedIn or email me for any inquiries!
+
+### 📫 How to reach me:
+
+- LinkedIn: [Behzad Dara](https://www.linkedin.com/in/behzaddara)
+- Email: [behzad.dara.99@gmail.com](mailto:behzad.dara.99@gmail.com)
+- Phone: [📞 +98 912 858 4936](tel:+989128584936)
+- WhatsApp: [💬 Chat on WhatsApp](https://wa.me/989128584936)
+- Telegram: [📨 @behzad_dara](https://t.me/behzad_dara)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Behzad%20Dara-blue?logo=linkedin)](https://www.linkedin.com/in/behzaddara)
 [![Email](https://img.shields.io/badge/Email-behzad.dara.99@gmail.com-red?logo=gmail)](mailto:behzad.dara.99@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+98%20912%28584%2936-lightgrey?logo=phone)](tel:+989128584936)
+[![Phone](https://img.shields.io/badge/Phone-+98%20912%20858%204936-lightgrey?logo=phone)](tel:+989128584936)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?logo=whatsapp)](https://wa.me/989128584936)
 [![Telegram](https://img.shields.io/badge/Telegram-@behzad__dara-blue?logo=telegram)](https://t.me/behzad_dara)
 ---
