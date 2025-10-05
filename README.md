@@ -8,9 +8,11 @@ Senior Software Engineer (C#/.NET, Python, TypeScript) with 8+ years building ev
 Feel free to connect with me on LinkedIn or email me for any inquiries!
 
 ### 📫 How to reach me:
-- LinkedIn: [Behzad Dara](https://www.linkedin.com/in/behzaddara)
-- Email: [behzad.dara.99@gmail.com](mailto:behzad.dara.99@gmail.com)
-- WhatsApp: [(+98)9128584936](https://wa.me/989128584936)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Behzad%20Dara-blue?logo=linkedin)](https://www.linkedin.com/in/behzaddara)
+[![Email](https://img.shields.io/badge/Email-behzad.dara.99@gmail.com-red?logo=gmail)](mailto:behzad.dara.99@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+98%20912%20345%206789-lightgrey?logo=phone)](tel:+989128584936)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?logo=whatsapp)](https://wa.me/989128584936)
+[![Telegram](https://img.shields.io/badge/Telegram-@behzad__dara-blue?logo=telegram)](https://t.me/behzad_dara)
 ---
 
 ### ⚡ GitHub Stats:
