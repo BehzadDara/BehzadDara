@@ -3,16 +3,13 @@
 <!--[![](https://img.shields.io/badge/-@BehzadDara-%23181717?style=flat-square&logo=github)](https://github.com/BehzadDara)-->
 <!--[![](https://img.shields.io/badge/-Behzad%20Dara-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzaddara/)-->
 
-I'm a seasoned software engineer with 8 years of experience in back-end development, specializing in designing scalable distributed systems, microservices, and event-driven architectures. 
-<!--I love sharing knowledge through content creation on LinkedIn, where I have over 20K followers. I'm also passionate about open-source, with my GitHub projects earning over 1K stars. -->
+Senior Software Engineer (C#/.NET, Python, TypeScript) with 8+ years building event-driven microservices and scalable SaaS platforms. Experienced in Kubernetes, GCP/AWS/Azure, CI/CD, and secure distributed architectures. Proven ability to integrate AI/ML models into production systems, optimize APIs, and deliver high-quality software in fast-paced, startup environments. Strong ownership mentality, mentoring experience, and passion for building AI-native infrastructure.
 
-<!--
 Feel free to connect with me on LinkedIn or email me for any inquiries!
 
 ### 📫 How to reach me:
 - LinkedIn: [Behzad Dara](https://www.linkedin.com/in/behzaddara)
 - Email: [behzad.dara.99@gmail.com](mailto:behzad.dara.99@gmail.com)
--->
 ---
 
 ### ⚡ GitHub Stats:
