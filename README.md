@@ -5,6 +5,8 @@
 
 Senior Software Engineer (C#/.NET, Python, TypeScript) with 8+ years building event-driven microservices and scalable SaaS platforms. Experienced in Kubernetes, GCP/AWS/Azure, CI/CD, and secure distributed architectures. Proven ability to integrate AI/ML models into production systems, optimize APIs, and deliver high-quality software in fast-paced, startup environments. Strong ownership mentality, mentoring experience, and passion for building AI-native infrastructure.
 
+---
+
 Feel free to connect with me on LinkedIn or email me for any inquiries!
 
 ### 📫 How to reach me:
@@ -20,6 +22,7 @@ Feel free to connect with me on LinkedIn or email me for any inquiries!
 [![Phone](https://img.shields.io/badge/Phone-+98%20912%20858%204936-lightgrey?logo=phone)](tel:+989128584936)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?logo=whatsapp)](https://wa.me/989128584936)
 [![Telegram](https://img.shields.io/badge/Telegram-@behzad__dara-blue?logo=telegram)](https://t.me/behzad_dara)
+
 ---
 
 ### ⚡ GitHub Stats:
