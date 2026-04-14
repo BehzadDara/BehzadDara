@@ -11,7 +11,7 @@ Senior Software Engineer (C#/.NET, Python, TypeScript) with 8+ years building ev
 
 - LinkedIn: [Behzad Dara](https://www.linkedin.com/in/behzaddara)
 - Email: [behzad.dara.99@gmail.com](mailto:behzad.dara.99@gmail.com)
-- Phone: [📞 +98 912 858 4936](tel:+989128584936)
+- Phone: [📞 +90 505 852 36 19](tel:+905058523619)
 - WhatsApp: [💬 Chat on WhatsApp](https://wa.me/989128584936)
 - Telegram: [📨 @behzad_dara](https://t.me/behzad_dara)
 
