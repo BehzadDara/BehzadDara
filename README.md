@@ -3,7 +3,7 @@
 <!--[![](https://img.shields.io/badge/-@BehzadDara-%23181717?style=flat-square&logo=github)](https://github.com/BehzadDara)-->
 <!--[![](https://img.shields.io/badge/-Behzad%20Dara-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzaddara/)-->
 
-Senior Software Engineer (C#/.NET, Python, TypeScript) with 8+ years building event-driven microservices and scalable SaaS platforms. Experienced in Kubernetes, GCP/AWS/Azure, CI/CD, and secure distributed architectures. Proven ability to integrate AI/ML models into production systems, optimize APIs, and deliver high-quality software in fast-paced, startup environments. Strong ownership mentality, mentoring experience, and passion for building AI-native infrastructure.
+Software Engineer with 8+ years of experience building scalable web applications and microservices. Skilled in C#/.NET, Python, TypeScript, and modern front-end frameworks, with experience in cloud platforms (Azure, AWS), Docker, Kubernetes, and CI/CD pipelines. Experienced in designing secure, reliable, and user-focused systems, while collaborating in Agile teams. Passionate about learning and applying best practices, modern architectures, and AI/ML integration to deliver meaningful software solutions.
 
 ---
 
@@ -12,13 +12,13 @@ Senior Software Engineer (C#/.NET, Python, TypeScript) with 8+ years building ev
 - LinkedIn: [Behzad Dara](https://www.linkedin.com/in/behzaddara)
 - Email: [behzad.dara.99@gmail.com](mailto:behzad.dara.99@gmail.com)
 - Phone: [📞 +90 505 852 36 19](tel:+905058523619)
-- WhatsApp: [💬 Chat on WhatsApp](https://wa.me/989128584936)
+- WhatsApp: [💬 Chat on WhatsApp](https://wa.me/905058523619)
 - Telegram: [📨 @behzad_dara](https://t.me/behzad_dara)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Behzad%20Dara-blue?logo=linkedin)](https://www.linkedin.com/in/behzaddara)
 [![Email](https://img.shields.io/badge/Email-behzad.dara.99@gmail.com-red?logo=gmail)](mailto:behzad.dara.99@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+98%20912%20858%204936-lightgrey?logo=phone)](tel:+989128584936)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?logo=whatsapp)](https://wa.me/989128584936)
+[![Phone](https://img.shields.io/badge/Phone-+90%2505%2852%23619-lightgrey?logo=phone)](tel:+905058523619)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?logo=whatsapp)](https://wa.me/905058523619)
 [![Telegram](https://img.shields.io/badge/Telegram-@behzad__dara-blue?logo=telegram)](https://t.me/behzad_dara)
 
 ---
