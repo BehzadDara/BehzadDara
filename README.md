@@ -11,7 +11,7 @@ Software Engineer with 8+ years of experience building scalable web applications
 
 - LinkedIn: [Behzad Dara](https://www.linkedin.com/in/behzaddara)
 - Email: [behzad.dara.99@gmail.com](mailto:behzad.dara.99@gmail.com)
-- Phone: [📞 +90 505 852 36 19](tel:+905058523619)
+- Phone: [📞 +90 505 852 3619](tel:+905058523619)
 - WhatsApp: [💬 Chat on WhatsApp](https://wa.me/905058523619)
 - Telegram: [📨 @behzad_dara](https://t.me/behzad_dara)
 
