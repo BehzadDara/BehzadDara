@@ -17,7 +17,7 @@ Software Engineer with 8+ years of experience building scalable web applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Behzad%20Dara-blue?logo=linkedin)](https://www.linkedin.com/in/behzaddara)
 [![Email](https://img.shields.io/badge/Email-behzad.dara.99@gmail.com-red?logo=gmail)](mailto:behzad.dara.99@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+90%2505%2852%23619-lightgrey?logo=phone)](tel:+905058523619)
+[![Phone](https://img.shields.io/badge/Phone-%2B90%20505%20852%203619-lightgrey?logo=phone)](tel:+905058523619)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?logo=whatsapp)](https://wa.me/905058523619)
 [![Telegram](https://img.shields.io/badge/Telegram-@behzad__dara-blue?logo=telegram)](https://t.me/behzad_dara)
 
