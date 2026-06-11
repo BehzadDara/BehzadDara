@@ -3,7 +3,7 @@
 <!--[![](https://img.shields.io/badge/-@BehzadDara-%23181717?style=flat-square&logo=github)](https://github.com/BehzadDara)-->
 <!--[![](https://img.shields.io/badge/-Behzad%20Dara-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzaddara/)-->
 
-Software Engineer with 8+ years of experience building scalable web applications and microservices. Skilled in C#/.NET, Python, TypeScript, and modern front-end frameworks, with experience in cloud platforms (Azure, AWS), Docker, Kubernetes, and CI/CD pipelines. Experienced in designing secure, reliable, and user-focused systems, while collaborating in Agile teams. Passionate about learning and applying best practices, modern architectures, and AI/ML integration to deliver meaningful software solutions.
+Senior Software Engineer with 9 years of experience building scalable backend systems for fintech and insurance products, and shipping production AI/LLM applications. Combines architecture leadership — including directing a 10-person team that built a BNPL superapp from inception to launch — with hands-on LLM engineering using LangChain and LangGraph.
 
 ---
 
