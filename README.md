@@ -3,7 +3,7 @@
 <!--[![](https://img.shields.io/badge/-@BehzadDara-%23181717?style=flat-square&logo=github)](https://github.com/BehzadDara)-->
 <!--[![](https://img.shields.io/badge/-Behzad%20Dara-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzaddara/)-->
 
-Senior Software Engineer with 9 years of experience building scalable backend systems for fintech and insurance products, and shipping production AI/LLM applications. Combines architecture leadership — including directing a 10-person team that built a BNPL superapp from inception to launch — with hands-on LLM engineering using LangChain and LangGraph.
+Senior Software Engineer — nine years building scalable backend systems for fintech, insurance, and AI products, in both .NET/C# and Python. I combine architecture leadership — including directing a 10-person team that built a BNPL superapp from inception to 1M users — with hands-on AI/LLM engineering using LangChain and LangGraph. Currently building AI media generation at Studioverse. Creator of SampleProject, an open-source .NET architecture template with 790+ stars.
 
 ---
 
